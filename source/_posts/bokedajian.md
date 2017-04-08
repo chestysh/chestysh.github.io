@@ -160,3 +160,5 @@ cnpm install hexo-deployer-git --save
 重新部署，再次访问`https://yourname.githud.io`, 就可以看见本地一样的网页了
 
 也可以看简书中 http://www.jianshu.com/p/5fc4672b7d2e?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=qq 这篇文章。
+
+`在使用[GitHub](https://github.com/) 进行代码管理时，需要将代码先提交到本地的仓库中，否则不能使用git提交。`
